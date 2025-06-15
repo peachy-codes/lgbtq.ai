@@ -1,10 +1,10 @@
-# LGBTQ.AI
+# LGBTQ.ai+
 
-**LGBTQ.AI+** is an machine learning and AI-assisted content curation and classification platform built to support and uplift queer communities, especially trans folks, in an era of information overload and queer oppression. It aims to curate and generate content tailored to the real needs of LGBTQIA+ individuals, with a focus on trust, transparency, and joy.
+**LGBTQ.ai+** is an machine learning and AI-assisted content curation and classification platform built to support and uplift queer communities, especially trans folks, in an era of information overload and queer oppression. It aims to curate and generate content tailored to the real needs of LGBTQIA+ individuals, with a focus on trust, transparency, and joy.
 
 This project uses a custom-built machine learning model in the backend that detects bias in online content and classifies the content accordingly (pro- or anti- trans). When a user queries the frontend app, a semantic similariy RAG search is conducted between the user's query and the data that the backend model has been trained on. This way, the data that the model is using to formulate its response is guaranteed to be helpful, relevant, trusted, and supportive towards the communities that it is serving.
 
-In other words, LGBTQ.AI is a custom-built, independent _expert_ on trans-related issues that members of the community can trust and rely on for safe, secure, and reliable information.
+In other words, LGBTQ.ai+ is a custom-built, independent _expert_ on trans-related issues that members of the community can trust and rely on for safe, secure, and reliable information.
 
 ---
 
