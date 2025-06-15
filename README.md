@@ -1,4 +1,4 @@
-# LGBTQ.AI+
+# LGBTQ.AI
 
 **LGBTQ.AI+** is an machine learning and AI-assisted content curation and classification platform built to support and uplift queer communities, especially trans folks, in an era of information overload and queer oppression. It aims to curate and generate content tailored to the real needs of LGBTQIA+ individuals, with a focus on trust, transparency, and joy.
 
@@ -12,6 +12,10 @@ This project uses a custom-built machine learning model in the backend that dete
 - **Curate** content using semantic search and article embeddings, ensuring topical accuracy.
 - **Classify** articles using a triplet-loss deep learning model that distinguishes between pro- and anti-trans content.
 - **Expand** from trans-specific support to broader LGBTQ+ and BIPOC communities globally.
+
+---
+
+[![Watch the demo](demo_screenshot.png)](demo.mov)
 
 ---
 
@@ -30,7 +34,7 @@ This project uses a custom-built machine learning model in the backend that dete
 
 - **Vertex AI** — Model deployment and GPU inference
 - **Hugging Face Transformers** — LLM-based classification
-- **TripletNet** — Embedding model trained with human-labeled article triplets (for )
+- **TripletNet** — Embedding model trained with human-labeled article triplets (for automated trusted-sites sourcing and classifications)
 - **MongoDB** — Secure data storage for articles and metadata
 - **Airflow + Docker** — Pipeline orchestration for scheduled retraining and model deployment
 - **FAISS** — Fast similarity search for article retrieval
