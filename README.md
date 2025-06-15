@@ -6,16 +6,16 @@ This project uses a custom-built machine learning model in the backend that dete
 
 ---
 
+[![Watch the demo](demo_screenshot.png)](demo.mp4)
+
+---
+
 ## Project Goals
 
 - **Protect** trans users by flagging harmful content and prioritizing affirming, trusted sources.
 - **Curate** content using semantic search and article embeddings, ensuring topical accuracy.
 - **Classify** articles using a triplet-loss deep learning model that distinguishes between pro- and anti-trans content.
 - **Expand** from trans-specific support to broader LGBTQ+ and BIPOC communities globally.
-
----
-
-[![Watch the demo](demo_screenshot.png)](demo.mov)
 
 ---
 
